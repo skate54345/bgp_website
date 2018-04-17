@@ -1,1 +1,3 @@
-https://cefns.nau.edu/~bk423/499/
+https://cefns.nau.edu/~bk423/499/ 
+
+full project code can be found in louiemontes/csNetworksProjectStaticSite
